@@ -7,7 +7,7 @@
       "options":[
         {"id": 1, "name":"Raios-Lasers", "alias":"A"},
         {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
+        {"id": 3, "name":"Ler mentes", "alias":"A"},
         {"id": 4, "name":"Curar feridas", "alias":"B"},
         {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
       ]
